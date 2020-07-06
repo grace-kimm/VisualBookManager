@@ -1,2 +1,2 @@
 # VisualBookManager
-VisualBookManager made by Swift
+VisualBookManager made with Swift
